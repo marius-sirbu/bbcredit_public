@@ -1,0 +1,34 @@
+services:
+  postgres_db:
+    image: postgres:latest
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: bbcredit_db
+    volumes:
+      - postgres_db:/var/lib/postgresql/data
+    networks:
+      - myapp_net
+
+  bbcredit_app:
+    image: mortyniners/bbcredit_app:latest
+    container_name: bbcredit_app
+    restart: always
+    environment:
+      POSTGRES_HOST: postgres_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: bbcredit_db
+      PORT: 3000
+    ports:
+      - "127.0.0.1:3000:3000"
+    depends_on:
+      - postgres_db
+    networks:
+      - myapp_net
+
+volumes:
+  postgres_db:
+networks:
+  myapp_net:

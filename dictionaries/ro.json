@@ -1,0 +1,146 @@
+{
+  "header": {
+    "l1": "Contacte",
+    "l2": "Despre noi",
+    "button": "Aplică acum"
+  },
+  "headerMobile": {
+    "link1": "Despre Noi ",
+    "link2": "Contacte "
+  },
+  "heroSection": {
+    "title": "Credite pentru toți până la 40.000 lei",
+    "preTitle": "Doar cu buletinul!",
+    "paragraph": "Completați cererea, și în doar 10 minute veți putea obține banii.",
+    "button": "Aplică acum",
+    "loanCalculator": {
+      "mobileTitle": "Calculator de credite",
+      "l1": "Suma creditului:",
+      "l2": "Termen de credit:",
+      "l3": "Suma rambursării:",
+      "l4": "Costul creditului:",
+      "l5": "DAE - dobânda anuală efectivă:",
+      "currency": "Lei",
+      "date": "zile"
+    }
+  },
+  "applicationForm": {
+    "outsideFormTitle": "Nu mai sta pe gânduri",
+    "outsideFormSubtitle": "Solicită un împrumut acum și fă primul pas spre realizarea planurilor tale!",
+    "title": "Solicită un împrumut",
+    "name": "Nume",
+    "namePlaceholder": "Ex: Alexandru",
+    "lastName": "Prenume",
+    "lastNamePlaceholder": "Ex: Guțu",
+    "phoneNumber": "Număr telefon",
+    "phoneNumberPlaceholder": "Ex: +373 79 000 000",
+    "idnp": "IDNP",
+    "idnpPlaceholder": "Ex: 2000379554385",
+    "email": "Email (opțional)",
+    "emailPlaceholder": "@gmail.com",
+    "date": "Anul Nașterii",
+    "sum": "Summa creditului",
+    "sumPlaceholder": "Ex: 1000 de lei",
+    "checkbox": "Sunt de acord ca datele mele cu caracter personal să fie prelucrate.",
+    "button": "Aplică acum",
+    "dataPicker": {
+      "label": "Data nașterii",
+      "indication": "Alege o dată"
+    },
+    "supplimentar": "Supplimentar",
+    "toastSuccess": "Solicitarea dumneavoastră a fost înregistrată cu succes!",
+    "toastError": "A apărut o eroare. Vă rugăm să încercați din nou."
+  },
+  "creditQualify": {
+    "title": "Cine poate beneficia de credit ?",
+    "subTitle": "Oricine care îndeplinește următoarele criterii",
+    "card_1_title": "Buletin de identitate",
+    "card_1_content": "Trebuie să dețineți un buletin de identitate emis în Republica Moldova.",
+    "card_2_title": "Telefon mobil",
+    "card_2_content": "Este necesar un telefon mobil, chiar și unul simplu, pentru a putea fi contactat.",
+    "card_3_title": "Vârstă",
+    "card_3_content": "Pot aplica persoanele cu vârsta cuprinsă între 18 și 70 de ani."
+  },
+  "faq": {
+    "title": "Întrebări Frecvente",
+    "subTitle": "Găsește răspunsurile rapide la cele mai comune întrebări despre procesul de aplicare",
+    "q1": "Cum aplic pentru un credit?",
+    "r1": "Completați cererea online pe site-ul nostru, iar echipa noastră va analiza rapid solicitarea. Veți primi răspuns în doar câteva minute.",
+    "q2": "Ce documente sunt necesare?",
+    "r2": " Ai nevoie doar de un buletin de identitate emis în Republica Moldova.",
+    "q3": "Cât durează procesul de aprobare?",
+    "r3": "Procesul de aprobare durează aproximativ 10 minute, iar banii se Înmână imediat",
+    "q4": "Pot prelungi termenul de rambursare?",
+    "r4": "Da, este posibil. Contactează echipa noastră de suport pentru a afla mai multe detalii despre opțiunile de prelungire."
+  },
+  "whyUs": {
+    "title": "De ce aleg clienții B&B Credit?",
+    "subTitle": "Oferim cele mai bune soluții pentru fiecare client care ne alege!",
+    "t1": "Dobândă redusă la credit",
+    "s1": "Beneficiază de una dintre cele mai mici rate ale dobânzii pentru microcredite nebancare din Republica Moldova.",
+    "t2": "Simplu și rapid",
+    "s2": "Obțineți banii în doar 10 minute după aprobarea cererii, fără bătăi de cap.",
+    "t3": "Transparență totală",
+    "s3": "La B&B Credit, nu există taxe sau comisioane ascunse. Totul este clar și transparent."
+  },
+  "footer": {
+    "address": "Adresa juridică: MD2005, mun. Chișinău, str. Rabbi Țirilson 4",
+    "col2": {
+      "title": "Informații generale",
+      "link1": "Despre Noi 🔗",
+      "link2": "Contacte 🔗",
+      "link3": "Formula de calcul 🔗"
+    },
+    "dialog": {
+      "dialogTitle": " Formula de calcul și exemplu reprezentativ",
+      "t1": "Formula de calcul:",
+      "s1": "Sold credit * rata anuală a dobînzii * numărul de zile pentru utilizarea creditului/numărul de zile în an de facto (365 sau 366 zile, în cazul anului bisect)",
+      "t2": "Exemplu reprezentativ de calcul:",
+      "s2": "Dacă a fost acordat un credit în mărime de 1 000 lei la 0,136 % pe un termen de 30 zile, atunci: 1 000 * 49,64 % * 30/365 = 40,8 lei"
+    }
+  },
+  "aboutUs": {
+    "title": "Despre Noi",
+    "subTitle": "Credite rapide în 10 minute, doar cu buletinul!",
+    "card1": "La B&B Credit, misiunea noastră este să ajutăm oamenii să-și rezolve nevoile financiare rapid și simplu. Oferim credite de până la 40.000 lei doar cu buletinul de identitate, fără proceduri complicate.",
+    "card2": {
+      "title": "Unde activăm",
+      "subTitle": "Lucrăm în Chișinău și în întreaga Moldovă.",
+      "button": "Vezi locația"
+    },
+    "card3": {
+      "title": "Cum funcționează",
+      "subTitle": "Completați cererea de credit pe site-ul nostru, iar în doar 10 minute puteți beneficia de bani.",
+      "button": "Completați cererea"
+    },
+    "docs": {
+      "title": "Regulamente și Documente",
+      "subTitle": "Compania nostra este introdusă în Registrul organizațiilor de creditare nebancare autorizate a CNPF ce înseamnă că toată activitatea noastră este reglementată de Comisia Națională a Pieței Financiare și noi acordăm credite conform legislație Republicii Moldova",
+      "doc1": "Regulament cu privire la prestarea serviciilor de credit",
+      "doc2": "Regulament cu privire la cadrul de administrare a activității",
+      "doc3": "Regulament privind Mecanismul de soluționare a petițiilor",
+      "doc4": "Raport audit O.C.N. B&B ONE CREDIT S.R.L. 2022",
+      "doc5": "Extras din Registrul organizațiilor de creditare nebancară autorizate",
+      "doc6": "Informaţii standard privind acordarea creditului nebancar",
+      "doc7": "Raport audit O.C.N. B&B ONE CREDIT S.R.L. 2023",
+      "doc8": "Raport audit O.C.N. B&B ONE CREDIT S.R.L. 2024"
+    }
+  },
+  "contacts": {
+    "title": "Contacte",
+    "subTitle": "Suntem aici pentru a răspunde la toate întrebările tale și pentru a te ajuta să găsești soluții rapide la nevoile tale financiare.",
+    "address": {
+      "name": "Adresă",
+      "address1": "or. Chisinau, bd. Stefan cel Mare 64"
+    },
+    "phone": {
+      "name": "Telefon",
+      "phone1": "+373 (60) 066331",
+      "phone2": "+373 (60) 066332"
+    },
+    "email": {
+      "name": "Email",
+      "emailAdress": "bbcredit.crm@gmail.com"
+    }
+  }
+}
